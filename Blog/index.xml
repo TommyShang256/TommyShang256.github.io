@@ -1,0 +1,76 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>博客 · 测试使用</title>
+    
+    <link>https://tommyshang256.github.io/blog/</link>
+    <description>Recent content in 博客 · 测试使用</description>
+    
+    <language>zh-cn</language>
+    
+    
+    <managingEditor>tommy_shang2021@petalmail.com</managingEditor>
+    <webMaster>tommy_shang2021@petalmail.com</webMaster>
+    
+    
+    <copyright>© Tommy Shang</copyright>
+    
+    
+    <lastBuildDate>Wed, 07 Sep 2022 12:45:03 -0700</lastBuildDate>
+    
+    
+    <atom:link href="https://tommyshang256.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+    
+    
+    <item>
+      
+      <title>第一课</title>
+      
+      
+      <link>https://tommyshang256.github.io/blog/%E7%AC%AC%E4%B8%80%E8%AF%BE/</link>
+      <guid>https://tommyshang256.github.io/blog/%E7%AC%AC%E4%B8%80%E8%AF%BE/</guid>
+      
+      
+      <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
+      
+      
+      <author>tommy_shang2021@petalmail.com</author>
+      
+      
+      <description><![CDATA[<h1 id="第一课">第一课</h1>
+<h2 id="深度学习介绍">深度学习介绍</h2>
+<p>这一部分是在介绍深度学习的相关概念。</p>
+<p>深度学习利用符号学、概率模型以及机器学习相关的知识来解决不同的问题，其中问题的领域可以由低到高分为感知、推理、知识、规划四个不同的层次。</p>
+<p><img src="../assets/image-20221203164433-g9mhmg8.png" alt="1"></p>
+<p>在不同的层级中，自然语言处理目前只做到了感知，而计算机视觉和深度学习则在四个阶段都有一定的进展。</p>
+<p>深度学习能够解决诸多的问题，包括：</p>
+<ol>
+<li>图像分类：图像分类问题即将（整张）图像分配一个可以表征图像的标签，即类别。ImageNet是一个著名的图像数据集，它包含了1000个类别的图像，超过1400万张图像，在2012年，出现了使用深度学习的图像分类方法，分类的错误率骤减；</li>
+</ol>
+<p><img src="../assets/image-20221203164651-kb38chr.png" alt="2"></p>
+<ol start="2">
+<li>物体的检测和分割：即将图像汇总</li>
+</ol>
+]]></description>
+      
+    </item>
+    
+  </channel>
+</rss>
