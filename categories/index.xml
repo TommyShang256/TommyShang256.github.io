@@ -1,0 +1,60 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Categories · 测试使用</title>
+    
+    <link>https://tommyshang256.github.io/categories/</link>
+    <description>Recent content in Categories · 测试使用</description>
+    
+    <language>zh-cn</language>
+    
+    
+    <managingEditor>tommy_shang2021@petalmail.com</managingEditor>
+    <webMaster>tommy_shang2021@petalmail.com</webMaster>
+    
+    
+    <copyright>© Tommy Shang</copyright>
+    
+    
+    <lastBuildDate>Wed, 07 Sep 2022 12:45:03 -0700</lastBuildDate>
+    
+    
+    <atom:link href="https://tommyshang256.github.io/categories/index.xml" rel="self" type="application/rss+xml"/>
+    
+    
+    <item>
+      
+      <title>动手学深度学习笔记</title>
+      
+      
+      <link>https://tommyshang256.github.io/categories/%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+      <guid>https://tommyshang256.github.io/categories/%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+      
+      
+      <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
+      
+      
+      <author>tommy_shang2021@petalmail.com</author>
+      
+      
+    </item>
+    
+  </channel>
+</rss>
