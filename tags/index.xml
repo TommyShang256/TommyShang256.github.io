@@ -1,0 +1,77 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Tags · 测试使用</title>
+    
+    <link>https://tommyshang256.github.io/tags/</link>
+    <description>Recent content in Tags · 测试使用</description>
+    
+    <language>zh-cn</language>
+    
+    
+    <managingEditor>tommy_shang2021@petalmail.com</managingEditor>
+    <webMaster>tommy_shang2021@petalmail.com</webMaster>
+    
+    
+    <copyright>© Tommy Shang</copyright>
+    
+    
+    <lastBuildDate>Wed, 07 Sep 2022 12:45:03 -0700</lastBuildDate>
+    
+    
+    <atom:link href="https://tommyshang256.github.io/tags/index.xml" rel="self" type="application/rss+xml"/>
+    
+    
+    <item>
+      
+      <title>pytorch</title>
+      
+      
+      <link>https://tommyshang256.github.io/tags/pytorch/</link>
+      <guid>https://tommyshang256.github.io/tags/pytorch/</guid>
+      
+      
+      <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
+      
+      
+      <author>tommy_shang2021@petalmail.com</author>
+      
+      
+    </item>
+    
+    <item>
+      
+      <title>video</title>
+      
+      
+      <link>https://tommyshang256.github.io/tags/video/</link>
+      <guid>https://tommyshang256.github.io/tags/video/</guid>
+      
+      
+      <pubDate>Wed, 07 Sep 2022 12:45:03 -0700</pubDate>
+      
+      
+      <author>tommy_shang2021@petalmail.com</author>
+      
+      
+    </item>
+    
+  </channel>
+</rss>
