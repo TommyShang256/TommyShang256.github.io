@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pytorch on Tommy Shang</title>
+    <link>https://tommyshang256.github.io/tags/pytorch/</link>
+    <description>Recent content in Pytorch on Tommy Shang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://tommyshang256.github.io/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hello</title>
+      <link>https://tommyshang256.github.io/archive/hello/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tommyshang256.github.io/archive/hello/</guid>
+      <description>第一课深度学习介绍这一部分是在介绍深度学习的相关概念。 深度学习利用符号学、概率模型以及机器学习相关的知识来解决不同的问题，其中问题的领域可以</description>
+    </item>
+    
+  </channel>
+</rss>
