@@ -5,7 +5,16 @@
     <link>https://tommyshang256.github.io/tags/deeplearning/</link>
     <description>Recent content in DeepLearning on Tommy Shang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://tommyshang256.github.io/tags/deeplearning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://tommyshang256.github.io/tags/deeplearning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS231n资料分享</title>
+      <link>https://tommyshang256.github.io/posts/cs231n%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB/</link>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://tommyshang256.github.io/posts/cs231n%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB/</guid>
+      <description>TS共享版本 课程简介CS231n是斯坦福大学开设的计算机视觉课程，以下内容摘自课程官网：Stanford University CS231n: Deep Learning for Computer Vision： Computer Vision has become ubiquitous</description>
+    </item>
+    
     <item>
       <title>hello</title>
       <link>https://tommyshang256.github.io/archive/hello/</link>
