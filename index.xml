@@ -15,14 +15,5 @@
       <description>CS231n资料分享 TS共享版本 课程简介CS231n是斯坦福大学开设的计算机视觉课程，以下内容摘自课程官网：Stanford University CS231n: Deep Learning for Computer Vi</description>
     </item>
     
-    <item>
-      <title>hello</title>
-      <link>https://tommyshang256.github.io/archive/hello/</link>
-      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://tommyshang256.github.io/archive/hello/</guid>
-      <description>第一课深度学习介绍这一部分是在介绍深度学习的相关概念。 深度学习利用符号学、概率模型以及机器学习相关的知识来解决不同的问题，其中问题的领域可以</description>
-    </item>
-    
   </channel>
 </rss>
