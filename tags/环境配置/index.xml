@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>环境配置 on Tommy Shang</title>
+    <link>https://tommyshang256.github.io/tags/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</link>
+    <description>Recent content in 环境配置 on Tommy Shang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tommyshang256.github.io/tags/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>快速安装Anaconda、CUDA、Pytorch</title>
+      <link>https://tommyshang256.github.io/posts/%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85anacondacudapytorch/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://tommyshang256.github.io/posts/%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85anacondacudapytorch/</guid>
+      <description>Anaconda、CUDA、Pytorch安装 OS Windows11 22H2 GPU NVIDIA 3070Ti CPU i7-12700H 安装Anaconda Anaconda安装地址：Anaconda | The World&amp;rsquo;s Most Popular Data Science P</description>
+    </item>
+    
+  </channel>
+</rss>

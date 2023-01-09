@@ -5,22 +5,31 @@
     <link>https://tommyshang256.github.io/tags/</link>
     <description>Recent content in Tags on Tommy Shang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 04 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://tommyshang256.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tommyshang256.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeepLearning</title>
+      <link>https://tommyshang256.github.io/tags/deeplearning/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://tommyshang256.github.io/tags/deeplearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>环境配置</title>
+      <link>https://tommyshang256.github.io/tags/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://tommyshang256.github.io/tags/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Course</title>
       <link>https://tommyshang256.github.io/tags/course/</link>
       <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://tommyshang256.github.io/tags/course/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DeepLearning</title>
-      <link>https://tommyshang256.github.io/tags/deeplearning/</link>
-      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://tommyshang256.github.io/tags/deeplearning/</guid>
       <description></description>
     </item>
     
